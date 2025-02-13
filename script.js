@@ -23,16 +23,16 @@
 })();
 
 const messages = [
-    "Em chắc chưa?",
-    "Em thực sự chắc chứ??",
-    "Em khum đồng ý được à?",
-    "Đồng ý đi maàa...",
-    "Em suy nghĩ lại đi!",
-    "Em mà chọn Không, thì anh rất buồn đấy...",
-    "Anh sẽ rất buồn đấy...",
-    "Anh sẽ rất rất buồn đấyyyyyy...",
-    "Ok fine, anh không hỏi em nữa...",
-    "Anh đùa thui, làm ơn chọn Có đi mà, anh năn nỉ! ❤️"
+"Are you sure?",
+  "Are you really sure??",
+  "You really can't say yes?",
+  "Say yes, pleaaase...",
+  "Think about it again!",
+  "If you choose No, I'll be really sad...",
+  "I'll be so sad...",
+  "I'll be very, very saaad...",
+  "Ok fine, I will noy ask you anymore...",
+  "Just kidding! Please choose Yes, I am begging you! ❤️"
 ];
 
 let messageIndex = 0;
